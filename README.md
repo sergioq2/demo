@@ -31,3 +31,5 @@ esta palabra está en ***negrilla**.
 
 esta palabra esta en *italica
 
+walter es gay
+
