@@ -1,4 +1,4 @@
-# demo
+﻿# demo
 Sergio
 esto es un ejercicio para la clase del sábado
 
@@ -9,6 +9,8 @@ esto es un ejercicio para la clase del sábado
 
 ### sub-sub sección
 
+
+### ESTE ES EL CAMBIO DESDE EL PC
 
 ASAS
 sdasdasd
